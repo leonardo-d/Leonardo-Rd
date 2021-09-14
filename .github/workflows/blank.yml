@@ -37,6 +37,7 @@ jobs:
         copy Chrome%20v92.zip C:\Users\Public\Desktop\Chromev92.zip
         copy Chrome%20v93.zip C:\Users\Public\Desktop\Chromev93.zip
         copy HandBrake.zip C:\Users\Public\Desktop\HandBrake.zip
+        copy FireFox.zip C:\Users\Public\Desktop\FireFox.zip
         copy DontSleep.exe C:\Users\Public\Desktop\DontSleep.exe
         copy Instagram_view.zip C:\Users\Public\Desktop\Instagram_view.zip
         copy "A_LIKE.zip" "C:\Users\Public\Desktop\A_LIKE.zip"
